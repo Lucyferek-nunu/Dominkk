@@ -5,6 +5,6 @@
 
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/s00kin/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Dominkk/count.svg)
 
 <br />
